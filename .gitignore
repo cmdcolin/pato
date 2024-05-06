@@ -1,3 +1,4 @@
+*.swp
 /site
 build
 src/ontology/pato.json

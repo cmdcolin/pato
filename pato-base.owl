@@ -1227,7 +1227,7 @@ OBSOLETE. PATO divides qualities between normal (monadic, singly-occurring) qual
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0000022">
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0000022</oboInOwl:id>
-        <rdfs:label>obsolete gametophytic compatability</rdfs:label>
+        <rdfs:label>obsolete gametophytic compatibility</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -1238,7 +1238,7 @@ OBSOLETE. PATO divides qualities between normal (monadic, singly-occurring) qual
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0000023">
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0000023</oboInOwl:id>
-        <rdfs:label>obsolete relative compatability</rdfs:label>
+        <rdfs:label>obsolete relative compatibility</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -1249,7 +1249,7 @@ OBSOLETE. PATO divides qualities between normal (monadic, singly-occurring) qual
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0000024">
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0000024</oboInOwl:id>
-        <rdfs:label>obsolete sporophytic compatability</rdfs:label>
+        <rdfs:label>obsolete sporophytic compatibility</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -5518,7 +5518,7 @@ OBSOLETE. PATO divides qualities between normal (monadic, singly-occurring) qual
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0000338">
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0000338</oboInOwl:id>
-        <rdfs:label>obsolete compatability value</rdfs:label>
+        <rdfs:label>obsolete compatibility value</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -5529,7 +5529,7 @@ OBSOLETE. PATO divides qualities between normal (monadic, singly-occurring) qual
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0000339">
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0000339</oboInOwl:id>
-        <rdfs:label>obsolete gametophytic compatability value</rdfs:label>
+        <rdfs:label>obsolete gametophytic compatibility value</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -5540,7 +5540,7 @@ OBSOLETE. PATO divides qualities between normal (monadic, singly-occurring) qual
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0000340">
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0000340</oboInOwl:id>
-        <rdfs:label>obsolete relative compatability value</rdfs:label>
+        <rdfs:label>obsolete relative compatibility value</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -5551,7 +5551,7 @@ OBSOLETE. PATO divides qualities between normal (monadic, singly-occurring) qual
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0000341">
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0000341</oboInOwl:id>
-        <rdfs:label>obsolete sporophytic compatability value</rdfs:label>
+        <rdfs:label>obsolete sporophytic compatibility value</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -6879,7 +6879,7 @@ OBSOLETE. PATO divides qualities between normal (monadic, singly-occurring) qual
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0000424">
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0000424</oboInOwl:id>
-        <rdfs:label>obsolete occurence value</rdfs:label>
+        <rdfs:label>obsolete occurrence value</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -15352,7 +15352,7 @@ See https://github.com/pato-ontology/pato/issues/331.</rdfs:comment>
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001014">
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0001014</oboInOwl:id>
-        <rdfs:label>obsolete absolute occurence</rdfs:label>
+        <rdfs:label>obsolete absolute occurrence</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -15363,7 +15363,7 @@ See https://github.com/pato-ontology/pato/issues/331.</rdfs:comment>
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001015">
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0001015</oboInOwl:id>
-        <rdfs:label>obsolete relative occurence</rdfs:label>
+        <rdfs:label>obsolete relative occurrence</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -15374,7 +15374,7 @@ See https://github.com/pato-ontology/pato/issues/331.</rdfs:comment>
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001016">
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0001016</oboInOwl:id>
-        <rdfs:label>obsolete absolute occurence value</rdfs:label>
+        <rdfs:label>obsolete absolute occurrence value</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -15385,7 +15385,7 @@ See https://github.com/pato-ontology/pato/issues/331.</rdfs:comment>
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001017">
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0001017</oboInOwl:id>
-        <rdfs:label>obsolete relative occurence value</rdfs:label>
+        <rdfs:label>obsolete relative occurrence value</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -18030,7 +18030,7 @@ See https://github.com/pato-ontology/pato/issues/331.</rdfs:comment>
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001207">
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0001207</oboInOwl:id>
-        <rdfs:label>obsolete absolute compatability</rdfs:label>
+        <rdfs:label>obsolete absolute compatibility</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -24032,10 +24032,10 @@ See https://github.com/pato-ontology/pato/issues/331.</rdfs:comment>
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001511">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/PATO_0001509"/>
-        <obo:IAO_0000115>A disfunctional quality held by the bearer when the latter is unable to perform a regular function(s).</obo:IAO_0000115>
+        <obo:IAO_0000115>A dysfunctional quality held by the bearer when the latter is unable to perform a regular function(s).</obo:IAO_0000115>
         <obo:RO_0002604 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001510"/>
         <oboInOwl:hasAlternativeId>PATO:0001640</oboInOwl:hasAlternativeId>
-        <oboInOwl:hasExactSynonym>disfunctional</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym>dysfunctional</oboInOwl:hasExactSynonym>
         <oboInOwl:hasExactSynonym>functional failure</oboInOwl:hasExactSynonym>
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:hasRelatedSynonym>defective</oboInOwl:hasRelatedSynonym>
@@ -24048,7 +24048,7 @@ See https://github.com/pato-ontology/pato/issues/331.</rdfs:comment>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/PATO_0001511"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget>A disfunctional quality held by the bearer when the latter is unable to perform a regular function(s).</owl:annotatedTarget>
+        <owl:annotatedTarget>A dysfunctional quality held by the bearer when the latter is unable to perform a regular function(s).</owl:annotatedTarget>
         <oboInOwl:hasDbXref>PATC:MAH</oboInOwl:hasDbXref>
     </owl:Axiom>
     
@@ -37103,7 +37103,7 @@ See https://github.com/pato-ontology/pato/issues/331.</rdfs:comment>
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0002084</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/pato#value_slim"/>
-        <rdfs:comment>Terms were requested by the OBI consortium but it was later decided that the term was not reflecting a quality rather what it might be refered to as a &quot;conferred quality&quot;.</rdfs:comment>
+        <rdfs:comment>Terms were requested by the OBI consortium but it was later decided that the term was not reflecting a quality rather what it might be referred to as a &quot;conferred quality&quot;.</rdfs:comment>
         <rdfs:label>obsolete post-mortem</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
@@ -37125,7 +37125,7 @@ See https://github.com/pato-ontology/pato/issues/331.</rdfs:comment>
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0002085</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/pato#value_slim"/>
-        <rdfs:comment>Terms were requested by the OBI consortium but it was later decided that the term was not reflecting a quality rather what it might be refered to as a &quot;conferred quality&quot;.</rdfs:comment>
+        <rdfs:comment>Terms were requested by the OBI consortium but it was later decided that the term was not reflecting a quality rather what it might be referred to as a &quot;conferred quality&quot;.</rdfs:comment>
         <rdfs:label>obsolete pre-mortem</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
@@ -45547,7 +45547,7 @@ Note: kinked PATO:0001798(synonym twisted) is similar to &apos;torsioned&apos;, 
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0002455">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/PATO_0000052"/>
-        <obo:IAO_0000115>A quality inhering in a bearer by virtue of the bearer&apos;s architecture bearing resemblence to a corymb type of inflorescence.</obo:IAO_0000115>
+        <obo:IAO_0000115>A quality inhering in a bearer by virtue of the bearer&apos;s architecture bearing resemblance to a corymb type of inflorescence.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0000-0002-2061-091X"/>
         <oboInOwl:creation_date>2013-04-09T06:01:02Z</oboInOwl:creation_date>
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
@@ -45558,7 +45558,7 @@ Note: kinked PATO:0001798(synonym twisted) is similar to &apos;torsioned&apos;, 
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/PATO_0002455"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget>A quality inhering in a bearer by virtue of the bearer&apos;s architecture bearing resemblence to a corymb type of inflorescence.</owl:annotatedTarget>
+        <owl:annotatedTarget>A quality inhering in a bearer by virtue of the bearer&apos;s architecture bearing resemblance to a corymb type of inflorescence.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>PATOC:JL</oboInOwl:hasDbXref>
     </owl:Axiom>
     
@@ -53251,7 +53251,7 @@ height&apos;).</rdfs:comment>
         <obo:IAO_0000115>The number of repeated events per unit time, occurring in a repeating series. (e.g. the number of heart beats occurring over 1 minute)</obo:IAO_0000115>
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0050000</oboInOwl:id>
-        <rdfs:label>rate of occurence</rdfs:label>
+        <rdfs:label>rate of occurrence</rdfs:label>
     </owl:Class>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/PATO_0050000"/>

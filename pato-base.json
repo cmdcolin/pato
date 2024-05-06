@@ -389,7 +389,7 @@
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/PATO_0000022",
-      "lbl" : "obsolete gametophytic compatability",
+      "lbl" : "obsolete gametophytic compatibility",
       "type" : "CLASS",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -400,7 +400,7 @@
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/PATO_0000023",
-      "lbl" : "obsolete relative compatability",
+      "lbl" : "obsolete relative compatibility",
       "type" : "CLASS",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -411,7 +411,7 @@
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/PATO_0000024",
-      "lbl" : "obsolete sporophytic compatability",
+      "lbl" : "obsolete sporophytic compatibility",
       "type" : "CLASS",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -4487,7 +4487,7 @@
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/PATO_0000338",
-      "lbl" : "obsolete compatability value",
+      "lbl" : "obsolete compatibility value",
       "type" : "CLASS",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -4498,7 +4498,7 @@
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/PATO_0000339",
-      "lbl" : "obsolete gametophytic compatability value",
+      "lbl" : "obsolete gametophytic compatibility value",
       "type" : "CLASS",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -4509,7 +4509,7 @@
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/PATO_0000340",
-      "lbl" : "obsolete relative compatability value",
+      "lbl" : "obsolete relative compatibility value",
       "type" : "CLASS",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -4520,7 +4520,7 @@
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/PATO_0000341",
-      "lbl" : "obsolete sporophytic compatability value",
+      "lbl" : "obsolete sporophytic compatibility value",
       "type" : "CLASS",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -5708,7 +5708,7 @@
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/PATO_0000424",
-      "lbl" : "obsolete occurence value",
+      "lbl" : "obsolete occurrence value",
       "type" : "CLASS",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -13781,7 +13781,7 @@
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/PATO_0001014",
-      "lbl" : "obsolete absolute occurence",
+      "lbl" : "obsolete absolute occurrence",
       "type" : "CLASS",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -13792,7 +13792,7 @@
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/PATO_0001015",
-      "lbl" : "obsolete relative occurence",
+      "lbl" : "obsolete relative occurrence",
       "type" : "CLASS",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -13803,7 +13803,7 @@
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/PATO_0001016",
-      "lbl" : "obsolete absolute occurence value",
+      "lbl" : "obsolete absolute occurrence value",
       "type" : "CLASS",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -13814,7 +13814,7 @@
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/PATO_0001017",
-      "lbl" : "obsolete relative occurence value",
+      "lbl" : "obsolete relative occurrence value",
       "type" : "CLASS",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -16242,7 +16242,7 @@
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/PATO_0001207",
-      "lbl" : "obsolete absolute compatability",
+      "lbl" : "obsolete absolute compatibility",
       "type" : "CLASS",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -21298,13 +21298,13 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A disfunctional quality held by the bearer when the latter is unable to perform a regular function(s).",
+          "val" : "A dysfunctional quality held by the bearer when the latter is unable to perform a regular function(s).",
           "xrefs" : [ "PATC:MAH" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/pato#disposition_slim", "http://purl.obolibrary.org/obo/pato#value_slim" ],
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
-          "val" : "disfunctional"
+          "val" : "dysfunctional"
         }, {
           "pred" : "hasExactSynonym",
           "val" : "functional failure"
@@ -31994,7 +31994,7 @@
           "val" : "The period after death of the organism.",
           "xrefs" : [ "thefreedictionary:thefreedictionary" ]
         },
-        "comments" : [ "Terms were requested by the OBI consortium but it was later decided that the term was not reflecting a quality rather what it might be refered to as a \"conferred quality\"." ],
+        "comments" : [ "Terms were requested by the OBI consortium but it was later decided that the term was not reflecting a quality rather what it might be referred to as a \"conferred quality\"." ],
         "subsets" : [ "http://purl.obolibrary.org/obo/pato#value_slim" ],
         "basicPropertyValues" : [ {
           "pred" : "http://purl.org/dc/terms/contributor",
@@ -32017,7 +32017,7 @@
           "val" : "The period before death of the organism.",
           "xrefs" : [ "merriam-webster:merriam-webster" ]
         },
-        "comments" : [ "Terms were requested by the OBI consortium but it was later decided that the term was not reflecting a quality rather what it might be refered to as a \"conferred quality\"." ],
+        "comments" : [ "Terms were requested by the OBI consortium but it was later decided that the term was not reflecting a quality rather what it might be referred to as a \"conferred quality\"." ],
         "subsets" : [ "http://purl.obolibrary.org/obo/pato#value_slim" ],
         "basicPropertyValues" : [ {
           "pred" : "http://purl.org/dc/terms/contributor",
@@ -40268,7 +40268,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A quality inhering in a bearer by virtue of the bearer's architecture bearing resemblence to a corymb type of inflorescence.",
+          "val" : "A quality inhering in a bearer by virtue of the bearer's architecture bearing resemblance to a corymb type of inflorescence.",
           "xrefs" : [ "PATOC:JL" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/pato#value_slim" ],
@@ -47187,7 +47187,7 @@
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/PATO_0050000",
-      "lbl" : "rate of occurence",
+      "lbl" : "rate of occurrence",
       "type" : "CLASS",
       "meta" : {
         "definition" : {

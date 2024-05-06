@@ -170,17 +170,17 @@ is_a: PATO:0000186 ! behavioral quality
 
 [Term]
 id: PATO:0000022
-name: obsolete gametophytic compatability
+name: obsolete gametophytic compatibility
 is_obsolete: true
 
 [Term]
 id: PATO:0000023
-name: obsolete relative compatability
+name: obsolete relative compatibility
 is_obsolete: true
 
 [Term]
 id: PATO:0000024
-name: obsolete sporophytic compatability
+name: obsolete sporophytic compatibility
 is_obsolete: true
 
 [Term]
@@ -312,7 +312,7 @@ name: frequency
 def: "A physical quality which inheres in a bearer by virtue of the number of the bearer's repetitive actions in a particular time." [Wikipedia:http\://en.wikipedia.org/wiki/frequency]
 subset: attribute_slim
 subset: scalar_slim
-is_a: PATO:0050000 ! rate of occurence
+is_a: PATO:0050000 ! rate of occurrence
 
 [Term]
 id: PATO:0000045
@@ -2015,22 +2015,22 @@ is_a: PATO:0000019 ! color pattern
 
 [Term]
 id: PATO:0000338
-name: obsolete compatability value
+name: obsolete compatibility value
 is_obsolete: true
 
 [Term]
 id: PATO:0000339
-name: obsolete gametophytic compatability value
+name: obsolete gametophytic compatibility value
 is_obsolete: true
 
 [Term]
 id: PATO:0000340
-name: obsolete relative compatability value
+name: obsolete relative compatibility value
 is_obsolete: true
 
 [Term]
 id: PATO:0000341
-name: obsolete sporophytic compatability value
+name: obsolete sporophytic compatibility value
 is_obsolete: true
 
 [Term]
@@ -2598,7 +2598,7 @@ relationship: is_opposite_of PATO:0000422 ! auxotrophic
 
 [Term]
 id: PATO:0000424
-name: obsolete occurence value
+name: obsolete occurrence value
 is_obsolete: true
 
 [Term]
@@ -6283,22 +6283,22 @@ is_obsolete: true
 
 [Term]
 id: PATO:0001014
-name: obsolete absolute occurence
+name: obsolete absolute occurrence
 is_obsolete: true
 
 [Term]
 id: PATO:0001015
-name: obsolete relative occurence
+name: obsolete relative occurrence
 is_obsolete: true
 
 [Term]
 id: PATO:0001016
-name: obsolete absolute occurence value
+name: obsolete absolute occurrence value
 is_obsolete: true
 
 [Term]
 id: PATO:0001017
-name: obsolete relative occurence value
+name: obsolete relative occurrence value
 is_obsolete: true
 
 [Term]
@@ -7439,7 +7439,7 @@ relationship: is_opposite_of PATO:0001975 ! unserrated
 
 [Term]
 id: PATO:0001207
-name: obsolete absolute compatability
+name: obsolete absolute compatibility
 is_obsolete: true
 
 [Term]
@@ -9841,11 +9841,11 @@ relationship: is_opposite_of PATO:0001511 ! non-functional
 id: PATO:0001511
 name: non-functional
 alt_id: PATO:0001640
-def: "A disfunctional quality held by the bearer when the latter is unable to perform a regular function(s)." [PATC:MAH]
+def: "A dysfunctional quality held by the bearer when the latter is unable to perform a regular function(s)." [PATC:MAH]
 subset: disposition_slim
 subset: value_slim
 synonym: "defective" RELATED []
-synonym: "disfunctional" EXACT []
+synonym: "dysfunctional" EXACT []
 synonym: "failure" RELATED []
 synonym: "functional failure" EXACT []
 is_a: PATO:0001509 ! functionality
@@ -14987,7 +14987,7 @@ creation_date: 2009-09-21T10:41:58Z
 id: PATO:0002084
 name: obsolete post-mortem
 def: "The period after death of the organism." [thefreedictionary:thefreedictionary]
-comment: Terms were requested by the OBI consortium but it was later decided that the term was not reflecting a quality rather what it might be refered to as a "conferred quality".
+comment: Terms were requested by the OBI consortium but it was later decided that the term was not reflecting a quality rather what it might be referred to as a "conferred quality".
 subset: value_slim
 property_value: http://purl.org/dc/terms/contributor https://orcid.org/0000-0002-2061-091X
 is_obsolete: true
@@ -14997,7 +14997,7 @@ creation_date: 2009-09-25T11:29:21Z
 id: PATO:0002085
 name: obsolete pre-mortem
 def: "The period before death of the organism." [merriam-webster:merriam-webster]
-comment: Terms were requested by the OBI consortium but it was later decided that the term was not reflecting a quality rather what it might be refered to as a "conferred quality".
+comment: Terms were requested by the OBI consortium but it was later decided that the term was not reflecting a quality rather what it might be referred to as a "conferred quality".
 subset: value_slim
 property_value: http://purl.org/dc/terms/contributor https://orcid.org/0000-0002-2061-091X
 is_obsolete: true
@@ -18707,7 +18707,7 @@ creation_date: 2013-04-09T06:00:28Z
 [Term]
 id: PATO:0002455
 name: corymb-like
-def: "A quality inhering in a bearer by virtue of the bearer's architecture bearing resemblence to a corymb type of inflorescence." [PATOC:JL]
+def: "A quality inhering in a bearer by virtue of the bearer's architecture bearing resemblance to a corymb type of inflorescence." [PATOC:JL]
 subset: value_slim
 is_a: PATO:0000052 ! shape
 property_value: http://purl.org/dc/terms/contributor https://orcid.org/0000-0002-2061-091X
@@ -22013,7 +22013,7 @@ creation_date: 2017-12-22T14:16:43Z
 
 [Term]
 id: PATO:0050000
-name: rate of occurence
+name: rate of occurrence
 def: "The number of repeated events per unit time, occurring in a repeating series. (e.g. the number of heart beats occurring over 1 minute)" [https://orcid.org/0000-0002-9943-9018]
 is_a: PATO:0000161 ! rate
 
@@ -22045,8 +22045,8 @@ creation_date: 2019-07-29T14:23:31Z
 id: PATO:0055003
 name: increased rate of occurrence
 def: "A rate of occurrence that is relatively high." [https://orcid.org/0000-0003-4148-4606]
-is_a: PATO:0050000 ! rate of occurence
-intersection_of: PATO:0050000 ! rate of occurence
+is_a: PATO:0050000 ! rate of occurrence
+intersection_of: PATO:0050000 ! rate of occurrence
 intersection_of: RO:0015007 PATO:0000461 ! normal
 property_value: http://purl.org/dc/elements/1.1/date "2020-08-19T09:23:19Z" xsd:dateTime
 property_value: http://purl.org/dc/terms/contributor https://orcid.org/0000-0003-4148-4606
@@ -22055,8 +22055,8 @@ property_value: http://purl.org/dc/terms/contributor https://orcid.org/0000-0003
 id: PATO:0055004
 name: decreased rate of occurrence
 def: "A rate of occurrence that is relatively low." [https://orcid.org/0000-0003-4148-4606]
-is_a: PATO:0050000 ! rate of occurence
-intersection_of: PATO:0050000 ! rate of occurence
+is_a: PATO:0050000 ! rate of occurrence
+intersection_of: PATO:0050000 ! rate of occurrence
 intersection_of: RO:0015008 PATO:0000461 ! normal
 property_value: http://purl.org/dc/elements/1.1/date "2020-08-19T09:24:35Z" xsd:dateTime
 property_value: http://purl.org/dc/terms/contributor https://orcid.org/0000-0003-4148-4606
