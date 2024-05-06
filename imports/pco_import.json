@@ -1069,7 +1069,7 @@
           "val" : "Alan Ruttenberg"
         }, {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000116",
-          "val" : "named class expressions are used in order to have more concise logical definition but their extensions may not be interesting classes on their own. In languages such as OWL, with no provisions for macros, these show up as actuall classes. Tools may with to not show them as such, and to replace uses of the macros with their expansions"
+          "val" : "named class expressions are used in order to have more concise logical definition but their extensions may not be interesting classes on their own. In languages such as OWL, with no provisions for macros, these show up as actual classes. Tools may with to not show them as such, and to replace uses of the macros with their expansions"
         } ]
       },
       "type" : "INDIVIDUAL",
@@ -2605,7 +2605,7 @@
       "id" : "http://purl.obolibrary.org/obo/RO_0002212",
       "meta" : {
         "definition" : {
-          "val" : "Process(P1) negatively regulates process(P2) iff: P1 terminates P2, or P1 descreases the the frequency of initiation of P2 or the magnitude or rate of output of P2.",
+          "val" : "Process(P1) negatively regulates process(P2) iff: P1 terminates P2, or P1 decreases the the frequency of initiation of P2 or the magnitude or rate of output of P2.",
           "xrefs" : [ ]
         },
         "basicPropertyValues" : [ {

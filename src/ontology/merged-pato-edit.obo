@@ -4205,7 +4205,7 @@ is_obsolete: true
 
 [Term]
 id: PATO:0000659
-name: obsolete temparature_quantity
+name: obsolete temperature_quantity
 is_obsolete: true
 
 [Term]
@@ -7462,7 +7462,7 @@ is_obsolete: true
 
 [Term]
 id: PATO:0001214
-name: obsolete temparature_unit
+name: obsolete temperature_unit
 is_obsolete: true
 
 [Term]
@@ -7560,7 +7560,7 @@ is_obsolete: true
 
 [Term]
 id: PATO:0001232
-name: obsolete heat insentive
+name: obsolete heat insensitive
 is_obsolete: true
 
 [Term]
@@ -11798,7 +11798,7 @@ is_a: PATO:0001727 ! disposition
 [Term]
 id: PATO:0001729
 name: shedability
-def: "An organismal quality inhering in a bearer by virtue of the bearer's disposition to lose an entitity by natural process." [PATOC:GVG]
+def: "An organismal quality inhering in a bearer by virtue of the bearer's disposition to lose an entity by natural process." [PATOC:GVG]
 subset: attribute_slim
 subset: disposition_slim
 subset: relational_slim
@@ -14710,7 +14710,7 @@ creation_date: 2009-03-30T04:12:11Z
 
 [Term]
 id: PATO:0002059
-name: emmision wavelength
+name: emission wavelength
 def: "The specific wavelength of light emitted by a fluorescent molecule, such as a labelled probe, upon absorption of light at the (higher) excitation wavelength." [web:http\://www.expertglossary.com/]
 subset: attribute_slim
 is_a: PATO:0001299 ! radiation emitting quality
@@ -14923,7 +14923,7 @@ creation_date: 2009-09-18T02:19:20Z
 [Term]
 id: PATO:0002080
 name: broken into two pieces
-def: "A broken quality inhering in a bearer by virtue of the bearer's being seperated into two contiguous wholes." [PATOC:CJM]
+def: "A broken quality inhering in a bearer by virtue of the bearer's being separated into two contiguous wholes." [PATOC:CJM]
 subset: value_slim
 is_a: PATO:0001444 ! broken
 created_by: George Gkoutos
@@ -18649,7 +18649,7 @@ creation_date: 2013-03-11T09:22:04Z
 [Term]
 id: PATO:0002452
 name: decondensed
-def: "A structural quality inhering in a bearer by virtue of the bearer being thinner or more losely packed." [PATOC:JL]
+def: "A structural quality inhering in a bearer by virtue of the bearer being thinner or more loosely packed." [PATOC:JL]
 subset: value_slim
 is_a: PATO:0000141 ! structure
 relationship: is_opposite_of PATO:0001485 ! condensed
@@ -18722,7 +18722,7 @@ creation_date: 2013-04-09T06:04:36Z
 [Term]
 id: PATO:0002460
 name: shriveled
-def: "A structural quality inhering in a bearer by virtue of the bearer being smaller and contracted, expecially due to loss of moisture." [PATOC:JL]
+def: "A structural quality inhering in a bearer by virtue of the bearer being smaller and contracted, especially due to loss of moisture." [PATOC:JL]
 subset: value_slim
 is_a: PATO:0000141 ! structure
 created_by: gkoutos

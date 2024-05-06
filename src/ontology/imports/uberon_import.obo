@@ -820,7 +820,7 @@ is_a: CL:0011115 ! precursor cell
 id: CL:0000056
 name: myoblast
 namespace: cell
-def: "A cell that is commited to differentiating into a muscle cell.  Embryonic myoblasts develop from the mesoderm. They undergo proliferation, migrate to their various sites, and then differentiate into the appropriate form of myocytes.  Myoblasts also occur as transient populations of cells in muscles undergoing repair." []
+def: "A cell that is committed to differentiating into a muscle cell.  Embryonic myoblasts develop from the mesoderm. They undergo proliferation, migrate to their various sites, and then differentiate into the appropriate form of myocytes.  Myoblasts also occur as transient populations of cells in muscles undergoing repair." []
 xref: BTO:0000222
 xref: CALOHA:TS-0650
 xref: FBbt:00005083
@@ -1850,7 +1850,7 @@ relationship: capable_of GO:0001820 ! serotonin secretion
 id: CL:0000459
 name: noradrenergic cell
 namespace: cell
-def: "A cell capable of producting norepiniphrine. Norepiniphrine is a catecholamine with multiple roles including as a hormone and a neurotransmitter. In addition, epiniphrine is synthesized from norepiniphrine by the actions of the phenylethanolamine N-methyltransferase enzyme." []
+def: "A cell capable of producing norepiniphrine. Norepiniphrine is a catecholamine with multiple roles including as a hormone and a neurotransmitter. In addition, epiniphrine is synthesized from norepiniphrine by the actions of the phenylethanolamine N-methyltransferase enzyme." []
 synonym: "noradrenaline secreting cell" EXACT []
 synonym: "norepinephrin secreting cell" EXACT []
 synonym: "norepinephrine secreting cell" EXACT []
@@ -2252,7 +2252,7 @@ name: cardiac muscle cell
 namespace: cell
 alt_id: FMA:83808
 def: "Cardiac muscle cells are striated muscle cells that are responsible for heart contraction. In mammals, the contractile fiber resembles those of skeletal muscle but are only one third as large in diameter, are richer in sarcoplasm, and contain centrally located instead of peripheral nuclei." []
-comment: This class encompasses the muscle cells responsible for heart* contraction in both vertebrates and arthropods.  The ultrastucture of a wide range of arthropod heart cells has been examined including spiders, horseshoe crabs, crustaceans (see Sherman, 1973 and refs therein) and insects (see Lehmacher et al (2012) and refs therein).  According to these refs, the cells participating in heart contraction in all cases are transversely striated.  Insects hearts additionally contain ostial cells, also transversely striated muscle cells, but which do not participate in heart contraction.
+comment: This class encompasses the muscle cells responsible for heart* contraction in both vertebrates and arthropods.  The ultrastructure of a wide range of arthropod heart cells has been examined including spiders, horseshoe crabs, crustaceans (see Sherman, 1973 and refs therein) and insects (see Lehmacher et al (2012) and refs therein).  According to these refs, the cells participating in heart contraction in all cases are transversely striated.  Insects hearts additionally contain ostial cells, also transversely striated muscle cells, but which do not participate in heart contraction.
 synonym: "cardiac muscle fiber" EXACT []
 synonym: "cardiac myocyte" EXACT []
 synonym: "cardiocyte" BROAD []
@@ -2991,7 +2991,7 @@ id: CL:0002484
 name: epithelial melanocyte
 namespace: cell
 def: "A melanocyte that produces pigment in the epithelium." []
-comment: The text defintion reference to the MP term appears to reference an epidermal melanocyte term. This term represents any melanocyte in any epithelium.
+comment: The text definition reference to the MP term appears to reference an epidermal melanocyte term. This term represents any melanocyte in any epithelium.
 is_a: CL:0000148 ! melanocyte
 intersection_of: CL:0000148 ! melanocyte
 intersection_of: part_of UBERON:0000483 ! epithelium
@@ -14442,7 +14442,7 @@ relationship: part_of UBERON:0010409 {source="MA"} ! ocular surface region
 relationship: part_of UBERON:0012430 {source="FMA-isa"} ! tunica fibrosa of eyeball
 property_value: depicted:by http://upload.wikimedia.org/wikipedia/commons/1/1e/Schematic_diagram_of_the_human_eye_en.svg xsd:anyURI
 property_value: UBPROP:0000007 "corneal" xsd:string
-property_value: UBPROP:0000008 "Compared to terrestial animals, the cornea of zebrafish is relatively flat. It consists of nonpigmented, stratified squamous nonkeratinizing epithelial cells, attached to a thick basement membrane that is considered to be analogous to the Bowman's membrane in mammals. In fish, and aquatic vertebrates in general, the cornea plays no role in focusing light, since it has virtually the same refractive index as water" xsd:string
+property_value: UBPROP:0000008 "Compared to terrestrial animals, the cornea of zebrafish is relatively flat. It consists of nonpigmented, stratified squamous nonkeratinizing epithelial cells, attached to a thick basement membrane that is considered to be analogous to the Bowman's membrane in mammals. In fish, and aquatic vertebrates in general, the cornea plays no role in focusing light, since it has virtually the same refractive index as water" xsd:string
 
 [Term]
 id: UBERON:0000965
@@ -15089,7 +15089,7 @@ is_a: UBERON:0003103 ! compound organ
 is_a: UBERON:0004111 ! anatomical conduit
 relationship: channel_for UBERON:0034874 ! air in respiratory system
 relationship: part_of UBERON:0001004 ! respiratory system
-property_value: IAO:0000232 "This class generically groups trachea and analagous structures throughout metazoa. Consider renaming, as the term could be taken to mean lumen of tracheal system (e.g. in SNOMED). As a grouping class this is quite vague, as it is not clear where the airway begins and ends" xsd:string
+property_value: IAO:0000232 "This class generically groups trachea and analogous structures throughout metazoa. Consider renaming, as the term could be taken to mean lumen of tracheal system (e.g. in SNOMED). As a grouping class this is quite vague, as it is not clear where the airway begins and ends" xsd:string
 
 [Term]
 id: UBERON:0001007
@@ -18601,7 +18601,7 @@ relationship: innervates UBERON:1000021 ! skin of face
 property_value: depicted:by Gray778:Trigeminal.png xsd:anyURI
 property_value: UBPROP:0000001 "Nerve consists of motor and sensory components. Ganglion cells of the sensory component form the proximal part of the trigeminal (Gasserian) ganglion. From the ganglion 3 major rami innervate jaws, snout, and buccal roof.[AAO]" xsd:string {date_retrieved="2012-06-20", external_class="AAO:0010470", ontology="AAO", source="AAO:EJS"}
 property_value: UBPROP:0000003 "We conclude this section by listing some of the many synapomorphies of craniates, including (...) (5) cranial nerves (...) (reference 1); Phylogenetically, the cranial nerves are thought to have evolved from dorsal and ventral nerves of a few anterior spinal nerves that became incorporated into the braincase. Dorsal and ventral nerves fuse in the trunk but not in the head, and they produce two series: dorsal cranial nerves (V, VII, IX, and X) and ventral cranial nerves (III, IV, VI, and XIII) (reference 2).[well established][VHOG]" xsd:string {date_retrieved="2012-09-17", external_class="VHOG:0000704", ontology="VHOG", source="ISBN:978-0030223693 Liem KF, Bemis WE, Walker WF, Grande L, Functional Anatomy of the Vertebrates: An Evolutionary Perspective (2001) p.43, ISBN:978-0072528305 Kardong KV, Vertebrates: Comparative Anatomy, Function, Evolution (2006) p.625", source="http://bgee.unil.ch/"}
-property_value: UBPROP:0000008 "the ophthalmic usually usually merges with the other two. In some vertebrates, the ophthalmic emerges from the brain separately[Kardong] The trigeminal nerve has 3 branches in mammals - similar branches are present in nonmammalian vertebrates, but in some a separate profundus nerve that corresponds to opthalmic branch in mammls" xsd:string {source="ISBN:0471888893"}
+property_value: UBPROP:0000008 "the ophthalmic usually usually merges with the other two. In some vertebrates, the ophthalmic emerges from the brain separately[Kardong] The trigeminal nerve has 3 branches in mammals - similar branches are present in nonmammalian vertebrates, but in some a separate profundus nerve that corresponds to ophthalmic branch in mammls" xsd:string {source="ISBN:0471888893"}
 
 [Term]
 id: UBERON:0001649
@@ -19133,7 +19133,7 @@ property_value: depicted:by http://upload.wikimedia.org/wikipedia/commons/5/5a/G
 property_value: UBPROP:0000001 "A chemoreceptive organ.[AAO]" xsd:string {date_retrieved="2012-06-20", external_class="AAO:0010573", ontology="AAO", source="AAO:EJS"}
 property_value: UBPROP:0000001 "One of a number of receptor cell nests located in the epithelium of the papillae of the tongue and in the soft palate, epiglottis, and pharynx that mediate the sense of taste. [TFD][VHOG]" xsd:string {date_retrieved="2012-09-17", external_class="VHOG:0000130", ontology="VHOG", source="http://bgee.unil.ch/", source="http://medical-dictionary.thefreedictionary.com/taste+bud"}
 property_value: UBPROP:0000003 "Experients in amphibia have shown that an intrinsic feature of the pharyngeal endoderm is its ability to generate taste buds and this capacity must have been acquired by the endoderm at the origin of the vertebrates.[well established][VHOG]" xsd:string {date_retrieved="2012-09-17", external_class="VHOG:0000130", ontology="VHOG", source="DOI:10.1046/j.1469-7580.2001.19910133.x Graham A. The development and evolution of the pharyngeal arches. J Anat (2001)", source="http://bgee.unil.ch/"}
-property_value: UBPROP:0000008 "In humans, saste buds may be found on the tongue, soft palatte, epiglottis and upper pharynx. In other species they may be found in more unusual places, such as the trunk, or on the barbels or fins of fish." xsd:string
+property_value: UBPROP:0000008 "In humans, saste buds may be found on the tongue, soft palate, epiglottis and upper pharynx. In other species they may be found in more unusual places, such as the trunk, or on the barbels or fins of fish." xsd:string
 property_value: UBPROP:0000011 "arise by inductive interactions between epithelial cells and invading gustatory cells from chorda tympani (facial), glossophrayngeal and vagues nerves ISBN:1607950324 (todo - request cell terms from CL)" xsd:string
 
 [Term]
@@ -20851,7 +20851,7 @@ relationship: contributes_to_morphology_of UBERON:0000956 ! cerebral cortex
 relationship: only_in_taxon NCBITaxon:40674 {source="Wikipedia"} ! Mammalia
 relationship: part_of UBERON:0000956 ! cerebral cortex
 property_value: depicted:by http://upload.wikimedia.org/wikipedia/commons/7/77/Neocortex.jpg xsd:anyURI
-property_value: UBPROP:0000003 "The 6-layer neocortex is well conserved in all extant mammals, but not present in birds or reptils" xsd:string {source="PMID:23027930"}
+property_value: UBPROP:0000003 "The 6-layer neocortex is well conserved in all extant mammals, but not present in birds or reptiles" xsd:string {source="PMID:23027930"}
 
 [Term]
 id: UBERON:0001969
@@ -22470,7 +22470,7 @@ property_value: seeAlso https://github.com/obophenotype/uberon/wiki/Appendages-a
 property_value: UBPROP:0000001 "Skeletal subdivision consisting of all the skeletal elements in the pectoral and pelvic appendage complexes.[VSAO]" xsd:string {date_retrieved="2012-08-14", external_class="VSAO:0000076", ontology="VSAO", source="PSPUB:0000170", source="https://orcid.org/0000-0002-6601-2165"}
 property_value: UBPROP:0000001 "Skeletal system that consists of the paired fins (pectoral or pelvic fins).[TAO]" xsd:string {date_retrieved="2012-08-14", external_class="TAO:0000027", ontology="TAO", source="TAO:wd"}
 property_value: UBPROP:0000001 "The pectoral and pelvic girdles, which articulate with the axial skeleton, together with their associated limbs, the forelimbs and hind limbs, form the appendicular skeleton.[AAO]" xsd:string {date_retrieved="2012-06-20", external_class="AAO:0000747", ontology="AAO", source="AAO:LAP"}
-property_value: UBPROP:0000012 "ontologies differ in whether they treat the term appendicular skeleton as being the entire set of bones in the limbs, or whether the fore and hind limbs/fins are treated as seperate appendicular skeletons. Here we follow FMA, and treat the appendicular skeleton as the sum total of skeletal elements in the organism (this is evidenced by the fact that in FMA, skeleton of left/right upper/lower limb is part_of a appendicular skeleton, and subtypes of 'subdivision of appendicular skeleton'). We have separate classes such as 'skeleton of limb', and 'skeleton of hindlimb' for the 4 parts of the appendicular skeleton. In future the ZFA/TAO classes may be moved." xsd:string {external_ontology="FMA"}
+property_value: UBPROP:0000012 "ontologies differ in whether they treat the term appendicular skeleton as being the entire set of bones in the limbs, or whether the fore and hind limbs/fins are treated as separate appendicular skeletons. Here we follow FMA, and treat the appendicular skeleton as the sum total of skeletal elements in the organism (this is evidenced by the fact that in FMA, skeleton of left/right upper/lower limb is part_of a appendicular skeleton, and subtypes of 'subdivision of appendicular skeleton'). We have separate classes such as 'skeleton of limb', and 'skeleton of hindlimb' for the 4 parts of the appendicular skeleton. In future the ZFA/TAO classes may be moved." xsd:string {external_ontology="FMA"}
 
 [Term]
 id: UBERON:0002094
@@ -23444,7 +23444,7 @@ id: UBERON:0002298
 name: brainstem
 namespace: uberon
 def: "Stalk-like part of the brain that includes amongst its parts the medulla oblongata of the hindbrain and the tegmentum of the midbrain[ZFA,MP,generalized]." [ISBN:0471888893, MP:0005277, Wikipedia:Brainstem, ZFA:0001707]
-comment: 'brainstem' is a loose term that sometimes refers to the ventral parts o the brain except for any part of the telencephalon - sometimes it includes the diencephalon or subpallial telencephalon structures (ISBN:0471888893). Here we use it in a more restriced sense, to include only the medulla oblongata, pons (when present) and the midbrain tegmentum (following the ZFA definitions).
+comment: 'brainstem' is a loose term that sometimes refers to the ventral parts o the brain except for any part of the telencephalon - sometimes it includes the diencephalon or subpallial telencephalon structures (ISBN:0471888893). Here we use it in a more restricted sense, to include only the medulla oblongata, pons (when present) and the midbrain tegmentum (following the ZFA definitions).
 subset: efo_slim
 subset: pheno_slim
 subset: uberon_slim
@@ -32024,7 +32024,7 @@ intersection_of: part_of UBERON:0000964 ! cornea
 relationship: attaches_to UBERON:0001772 ! corneal epithelium
 relationship: part_of UBERON:0000964 ! cornea
 property_value: UBPROP:0000001 "Acellular anatomical structure that is the zone of collagen fibers adjacent the basement membrane of the corneal epithelium.[TAO]" xsd:string {date_retrieved="2012-08-14", external_class="TAO:0002155", ontology="TAO", source="ZFIN:ZDB-PUB-061010-3"}
-property_value: UBPROP:0000008 "Compared to terrestial animals, the cornea of zebrafish is relatively flat. It consists of nonpigmented, stratified squamous nonkeratinizing epithelial cells, attached to a thick basement membrane that is considered to be analogous to the Bowman's membrane in mammals" xsd:string
+property_value: UBPROP:0000008 "Compared to terrestrial animals, the cornea of zebrafish is relatively flat. It consists of nonpigmented, stratified squamous nonkeratinizing epithelial cells, attached to a thick basement membrane that is considered to be analogous to the Bowman's membrane in mammals" xsd:string
 
 [Term]
 id: UBERON:0004375
@@ -33365,7 +33365,7 @@ def: "A mucosa that is part of a gastrointestinal system." [OBOL:automatic]
 comment: The gut mucosa of amphioxus has insulin-secreting cells. http://www.ncbi.nlm.nih.gov/pubmed/16417468
 synonym: "digestive tract mucosa" EXACT [https://orcid.org/0000-0002-6601-2165]
 synonym: "gut mucosa" EXACT [BTO:0000546]
-synonym: "gut mucuous membrane" EXACT [https://orcid.org/0000-0002-6601-2165]
+synonym: "gut mucous membrane" EXACT [https://orcid.org/0000-0002-6601-2165]
 synonym: "mucosa of gut" EXACT [https://orcid.org/0000-0002-6601-2165]
 xref: BTO:0000546
 xref: BTO:0005568
@@ -34404,7 +34404,7 @@ relationship: part_of UBERON:0000916 ! abdomen
 id: UBERON:0005173
 name: abdominal segment element
 namespace: uberon
-def: "An organ or element that is part of the adbominal segment of the organism. This region can be further subdivided into the abdominal cavity and the pelvic region." [http://orcid.org/0000-0002-6601-2165]
+def: "An organ or element that is part of the abdominal segment of the organism. This region can be further subdivided into the abdominal cavity and the pelvic region." [http://orcid.org/0000-0002-6601-2165]
 subset: non_informative
 synonym: "abdominal segment organ" EXACT [MA:0000529]
 xref: EMAPA:37062 {source="MA:th"}
@@ -35443,7 +35443,7 @@ xref: VHOG:0000484
 is_a: UBERON:0000947 ! aorta
 is_a: UBERON:0003513 ! trunk blood vessel
 relationship: part_of UBERON:0005805 ! dorsal aorta
-property_value: UBPROP:0000003 "A study of embryos shows that in all vertebrates six arterial arches link the ventral aorta with a pair of lateral dorsal aortae on each side of the body. The latter unite posteriorly to form a single median dorsal aorta wich takes blood to the body.[well established][VHOG]" xsd:string {date_retrieved="2012-09-17", external_class="VHOG:0000484", ontology="VHOG", source="ISBN:978-0174480198 Roberts MBV, Biology: a functional approach (1986) p.572", source="http://bgee.unil.ch/"}
+property_value: UBPROP:0000003 "A study of embryos shows that in all vertebrates six arterial arches link the ventral aorta with a pair of lateral dorsal aortae on each side of the body. The latter unite posteriorly to form a single median dorsal aorta which takes blood to the body.[well established][VHOG]" xsd:string {date_retrieved="2012-09-17", external_class="VHOG:0000484", ontology="VHOG", source="ISBN:978-0174480198 Roberts MBV, Biology: a functional approach (1986) p.572", source="http://bgee.unil.ch/"}
 property_value: UBPROP:0000008 "Contributes to the arch of aorta in humans" xsd:string {source="http://emedicine.medscape.com/article/899609-overview"}
 
 [Term]
@@ -35476,7 +35476,7 @@ relationship: adjacent_to UBERON:0000389 ! lens cortex
 relationship: adjacent_to UBERON:0001804 ! capsule of lens
 relationship: develops_from UBERON:0000924 {source="FMA-inferred"} ! ectoderm
 relationship: part_of UBERON:0000965 ! lens of camera-type eye
-property_value: UBPROP:0000010 "Cells of the subcapsular epithelium (or anterior lens cells) are mitotically active. In adult individuals they only cover the anterior 'hemisphere' of the lens. As they divide, cells gradually move towards the equator of the lens where they tranform into lens fibres. The apical part of the gradually elongating cell extends between the subcapsular epithelium and adjacent lens fibres towards the anterior pole of the lens. The basal part extends towards the posterior pole. The nucleus remains close to the equatorial plane of the lens - http://www.lab.anhb.uwa.edu.au/mb140/corepages/eye/eye.htm" xsd:string
+property_value: UBPROP:0000010 "Cells of the subcapsular epithelium (or anterior lens cells) are mitotically active. In adult individuals they only cover the anterior 'hemisphere' of the lens. As they divide, cells gradually move towards the equator of the lens where they transform into lens fibres. The apical part of the gradually elongating cell extends between the subcapsular epithelium and adjacent lens fibres towards the anterior pole of the lens. The basal part extends towards the posterior pole. The nucleus remains close to the equatorial plane of the lens - http://www.lab.anhb.uwa.edu.au/mb140/corepages/eye/eye.htm" xsd:string
 
 [Term]
 id: UBERON:0005616
@@ -35537,7 +35537,7 @@ xref: VHOG:0000485
 is_a: UBERON:0000947 ! aorta
 is_a: UBERON:0003513 ! trunk blood vessel
 relationship: part_of UBERON:0005805 ! dorsal aorta
-property_value: UBPROP:0000003 "A study of embryos shows that in all vertebrates six arterial arches link the ventral aorta with a pair of lateral dorsal aortae on each side of the body. The latter unite posteriorly to form a single median dorsal aorta wich takes blood to the body.[well established][VHOG]" xsd:string {date_retrieved="2012-09-17", external_class="VHOG:0000485", ontology="VHOG", source="ISBN:978-0174480198 Roberts MBV, Biology: a functional approach (1986) p.572", source="http://bgee.unil.ch/"}
+property_value: UBPROP:0000003 "A study of embryos shows that in all vertebrates six arterial arches link the ventral aorta with a pair of lateral dorsal aortae on each side of the body. The latter unite posteriorly to form a single median dorsal aorta which takes blood to the body.[well established][VHOG]" xsd:string {date_retrieved="2012-09-17", external_class="VHOG:0000485", ontology="VHOG", source="ISBN:978-0174480198 Roberts MBV, Biology: a functional approach (1986) p.572", source="http://bgee.unil.ch/"}
 property_value: UBPROP:0000008 "Normally regresses in humans" xsd:string {source="http://emedicine.medscape.com/article/899609-overview"}
 
 [Term]
@@ -38965,7 +38965,7 @@ is_a: UBERON:0000467 ! anatomical system
 relationship: part_of UBERON:0004535 {source="MA"} ! cardiovascular system
 property_value: editor_note "consider merging with vasculature" xsd:string
 property_value: UBPROP:0000001 "The cardiovascular and lymphatic systems, collectively[ncithesaurus:Vascular_System]." xsd:string {source="ncithesaurus:Vascular_System"}
-property_value: UBPROP:0000012 "in both MA and BTO, the arterial system and venous sytem are subtypes of the vascular system" xsd:string {external_ontology="MA"}
+property_value: UBPROP:0000012 "in both MA and BTO, the arterial system and venous system are subtypes of the vascular system" xsd:string {external_ontology="MA"}
 
 [Term]
 id: UBERON:0007808
@@ -39440,7 +39440,7 @@ relationship: part_of UBERON:0002347 ! thoracic vertebra
 id: UBERON:0008814
 name: pharyngeal arch system
 namespace: uberon
-def: "A transient embryonic complex that comprises the pharyngeal arches, bulges of tissues of mesoderm and neural crest derivation through which pass nerves and pharyngeal arch arteries. The arches are separated internally by pharyngeal pouches, evaginations of foregut endoderm, and externally by pharyngeal clefts, invaginations of surface ectoderm. The development of the system ends when the stucture it contributes to are forming, which may include (depending on species) the thymus, thyroid, parathyroids, maxilla, mandible, aortic arch, cardiac outflow tract, external and middle ear[GO,modified]." [GO:0060037, GOC:dph]
+def: "A transient embryonic complex that comprises the pharyngeal arches, bulges of tissues of mesoderm and neural crest derivation through which pass nerves and pharyngeal arch arteries. The arches are separated internally by pharyngeal pouches, evaginations of foregut endoderm, and externally by pharyngeal clefts, invaginations of surface ectoderm. The development of the system ends when the structure it contributes to are forming, which may include (depending on species) the thymus, thyroid, parathyroids, maxilla, mandible, aortic arch, cardiac outflow tract, external and middle ear[GO,modified]." [GO:0060037, GOC:dph]
 synonym: "embryonic pharyngeal complex" EXACT []
 synonym: "pharyngeal apparatus" EXACT []
 synonym: "pharyngeal arch complex" RELATED []
@@ -41073,7 +41073,7 @@ id: UBERON:0010199
 name: bona-fide anatomical boundary
 namespace: uberon
 def: "An anatomical boundary that corresponds to some physical discontinuity." [CARO:0001004]
-comment: One might argue that all boundaries are actually fiat in the sense that there must be some fiat element at a fine enough scale of granularity. This ontology choses to ignore this issue as below the level of granularity relevant to anatomy. (DOS121102)
+comment: One might argue that all boundaries are actually fiat in the sense that there must be some fiat element at a fine enough scale of granularity. This ontology chooses to ignore this issue as below the level of granularity relevant to anatomy. (DOS121102)
 subset: upper_level
 xref: CARO:0001004
 is_a: UBERON:0000466 {source="CARO"} ! immaterial anatomical entity
@@ -42647,7 +42647,7 @@ synonym: "body segment" RELATED []
 synonym: "main body segment" RELATED []
 is_a: UBERON:0000475 ! organism subdivision
 relationship: part_of UBERON:0013701 ! main body axis
-property_value: editor_note "Ideally this would be disjoint with analagous class for appendicular axes, but currently 'appendages' like antennae, horns cause a problem" xsd:string
+property_value: editor_note "Ideally this would be disjoint with analogous class for appendicular axes, but currently 'appendages' like antennae, horns cause a problem" xsd:string
 
 [Term]
 id: UBERON:0011677
@@ -45044,7 +45044,7 @@ relationship: part_of UBERON:0001835 ! lower lip
 id: UBERON:0017650
 name: developing mesenchymal structure
 namespace: uberon
-def: "A mesenchyme-derived anatomical entity undergoing a transtion to become another structure." [AEO:0001016, AEO:JB]
+def: "A mesenchyme-derived anatomical entity undergoing a transition to become another structure." [AEO:0001016, AEO:JB]
 xref: AEO:0001016
 is_a: UBERON:0005423 ! developing anatomical structure
 intersection_of: UBERON:0005423 ! developing anatomical structure
@@ -45996,7 +45996,7 @@ is_a: UBERON:0000061 ! anatomical structure
 intersection_of: UBERON:0000061 ! anatomical structure
 intersection_of: located_in UBERON:0006909 ! lumen of digestive tract
 relationship: located_in UBERON:0006909 ! lumen of digestive tract
-property_value: editor_note "Note that we treat any material entity that is ingested as an anatomical structure by defintion, although this may be expanding the CARO usage somewhat" xsd:string
+property_value: editor_note "Note that we treat any material entity that is ingested as an anatomical structure by definition, although this may be expanding the CARO usage somewhat" xsd:string
 
 [Term]
 id: UBERON:0035159
@@ -46113,7 +46113,7 @@ id: UBERON:0035550
 name: superficial vein
 namespace: uberon
 def: "Any of the veins carrying deoxygenated blood from the subcutaneous tissue layers." [ncithesaurus:Superficial_Vein]
-synonym: "superfical vein" RELATED [Wikipedia:Superficial_vein]
+synonym: "superficial vein" RELATED [Wikipedia:Superficial_vein]
 synonym: "superficial veins" RELATED [Wikipedia:Superficial_vein]
 synonym: "superficial vessels" RELATED [Wikipedia:Superficial_vein]
 xref: FMA:76719
@@ -48664,7 +48664,7 @@ inverse_of: has_member ! has member
 [Typedef]
 id: negatively_regulates
 name: negatively regulates
-def: "Process(P1) negatively regulates process(P2) iff: P1 terminates P2, or P1 descreases the the frequency of initiation of P2 or the magnitude or rate of output of P2." []
+def: "Process(P1) negatively regulates process(P2) iff: P1 terminates P2, or P1 decreases the the frequency of initiation of P2 or the magnitude or rate of output of P2." []
 xref: RO:0002212
 holds_over_chain: ends_with negatively_regulates
 is_a: regulates ! regulates

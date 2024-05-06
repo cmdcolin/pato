@@ -515,7 +515,7 @@ inverse_of: RO:0002334 ! regulated by
 [Typedef]
 id: RO:0002212
 name: negatively regulates
-def: "Process(P1) negatively regulates process(P2) iff: P1 terminates P2, or P1 descreases the the frequency of initiation of P2 or the magnitude or rate of output of P2." []
+def: "Process(P1) negatively regulates process(P2) iff: P1 terminates P2, or P1 decreases the the frequency of initiation of P2 or the magnitude or rate of output of P2." []
 property_value: IAO:0000117 "Chris Mungall" xsd:string
 property_value: IAO:0000119 http://purl.obolibrary.org/obo/ro/docs/causal-relations
 property_value: IAO:0000589 "negatively regulates (process to process)" xsd:string

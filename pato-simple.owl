@@ -10592,7 +10592,7 @@ See https://github.com/pato-ontology/pato/issues/331.</rdfs:comment>
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0000659">
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0000659</oboInOwl:id>
-        <rdfs:label>obsolete temparature_quantity</rdfs:label>
+        <rdfs:label>obsolete temperature_quantity</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -17963,7 +17963,7 @@ See https://github.com/pato-ontology/pato/issues/331.</rdfs:comment>
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001214">
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0001214</oboInOwl:id>
-        <rdfs:label>obsolete temparature_unit</rdfs:label>
+        <rdfs:label>obsolete temperature_unit</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -18191,7 +18191,7 @@ See https://github.com/pato-ontology/pato/issues/331.</rdfs:comment>
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0001232">
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0001232</oboInOwl:id>
-        <rdfs:label>obsolete heat insentive</rdfs:label>
+        <rdfs:label>obsolete heat insensitive</rdfs:label>
         <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
@@ -35026,7 +35026,7 @@ See https://github.com/pato-ontology/pato/issues/331.</rdfs:comment>
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
         <oboInOwl:id>PATO:0002059</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/pato#attribute_slim"/>
-        <rdfs:label>emmision wavelength</rdfs:label>
+        <rdfs:label>emission wavelength</rdfs:label>
     </owl:Class>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/PATO_0002059"/>
@@ -50741,7 +50741,7 @@ height&apos;).</rdfs:comment>
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PATO_0070012">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/PATO_0070027"/>
-        <obo:IAO_0000115>A cell morphology that inheres in neurons which have two clusters of primary dendrites that originate directly and extend from opposite ends of the soma, and axons that form a plexus which spreads widely. Compared to the narrow vertical axonal projection of bipolar morphology, and the &apos;horse-tail&apos; axonal cluster of double boquet cells, bitufted morphology has wide horizontal axonal spans, and branching that occur close to the soma. Their vertical projection is also less extensive and crosses mostly to neighboring layers.</obo:IAO_0000115>
+        <obo:IAO_0000115>A cell morphology that inheres in neurons which have two clusters of primary dendrites that originate directly and extend from opposite ends of the soma, and axons that form a plexus which spreads widely. Compared to the narrow vertical axonal projection of bipolar morphology, and the &apos;horse-tail&apos; axonal cluster of double bouquet cells, bitufted morphology has wide horizontal axonal spans, and branching that occur close to the soma. Their vertical projection is also less extensive and crosses mostly to neighboring layers.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0000-0001-7258-9596"/>
         <oboInOwl:hasDbXref>ilxtr:BituftedPhenotype</oboInOwl:hasDbXref>
         <oboInOwl:hasOBONamespace>quality</oboInOwl:hasOBONamespace>
@@ -50751,7 +50751,7 @@ height&apos;).</rdfs:comment>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/PATO_0070012"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget>A cell morphology that inheres in neurons which have two clusters of primary dendrites that originate directly and extend from opposite ends of the soma, and axons that form a plexus which spreads widely. Compared to the narrow vertical axonal projection of bipolar morphology, and the &apos;horse-tail&apos; axonal cluster of double boquet cells, bitufted morphology has wide horizontal axonal spans, and branching that occur close to the soma. Their vertical projection is also less extensive and crosses mostly to neighboring layers.</owl:annotatedTarget>
+        <owl:annotatedTarget>A cell morphology that inheres in neurons which have two clusters of primary dendrites that originate directly and extend from opposite ends of the soma, and axons that form a plexus which spreads widely. Compared to the narrow vertical axonal projection of bipolar morphology, and the &apos;horse-tail&apos; axonal cluster of double bouquet cells, bitufted morphology has wide horizontal axonal spans, and branching that occur close to the soma. Their vertical projection is also less extensive and crosses mostly to neighboring layers.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>PMID:15378039</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>PMID:18568015</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>doi:10.1016/b978-0-12-369497-3.10004-4</oboInOwl:hasDbXref>
